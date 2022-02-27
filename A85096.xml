@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous battel fought by the Earle of Corke, the Earle of Ormond, and the Lord Moore against the rebels in Ireland. Wherein is shewed the braue valour of the Lord Moore, how he recovered Dublin from the besiege of the rebels, and by his policy undermined the ground, and laid 20. barrels of gun-powder in a vault, and killed 2000. of the rebels at that time. Also, a great and bloody battel betwixt the Earle of Ormond and Tyrone, and the number of men that were slaine. Whereunto is added the trecherous plots against Dublin, and how it hath bin defended, and is now very strongly fortified as also of the great guard that is daily set to defend London Derry, and of some plots lately intended against the same. With the relation of how some English forces are come upon the rebels and have slaine many of them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85096</idno>
+            <idno type="STC">Wing F364</idno>
+            <idno type="STC">Thomason E181_24</idno>
+            <idno type="STC">ESTC R212672</idno>
+            <idno type="EEBO-CITATION">99871263</idno>
+            <idno type="PROQUEST">99871263</idno>
+            <idno type="VID">123669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123669)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous battel fought by the Earle of Corke, the Earle of Ormond, and the Lord Moore against the rebels in Ireland. Wherein is shewed the braue valour of the Lord Moore, how he recovered Dublin from the besiege of the rebels, and by his policy undermined the ground, and laid 20. barrels of gun-powder in a vault, and killed 2000. of the rebels at that time. Also, a great and bloody battel betwixt the Earle of Ormond and Tyrone, and the number of men that were slaine. Whereunto is added the trecherous plots against Dublin, and how it hath bin defended, and is now very strongly fortified as also of the great guard that is daily set to defend London Derry, and of some plots lately intended against the same. With the relation of how some English forces are come upon the rebels and have slaine many of them.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Imperfect: illustration filmed at beginning of E.181[25].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123669:1" rendition="simple:additions"/>
+            <p>A FAMOUS BATTEL Fought by the Earle of Corke, the Earle of Ormond, and the Lord MOORE Againſt the Rebels in IRELAND WHEREIN Is ſhewed the braue Valour of the Lord <hi>MOORE HOW HE RECOVERED D<g ref="char:V">Ʋ</g>BLIN FROM</hi> the Beſiege of the Rebels, and by his policy undermined the ground, and laid 20. Barrels of Gun-powder in a Vault, and killed 2000. of the Rebels at that time.</p>
+            <p>Alſo a great and bloody Battell betwixt the Earle of Ormond and Tyrone, and the number of men that were ſlaine.</p>
+            <p>Whereunto is added the trecherous Plots againſt Dublin, and how it hath bin defended, and is now very ſtrongly fortified</p>
+            <p>As alſo of the great Guard that is daily ſet to defend London Derry, and of ſome plots lately intended againſt the ſame.</p>
+            <p>With the Relation how ſome Engliſh forces are come upon the rebels and have ſlaine many of them.</p>
+            <p>LONDON, Printed for <hi>John Greenſmith,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:123669:2"/>
+            <pb facs="tcp:123669:2"/>
+            <head>A famous Battel Fought BY The Lord <hi>Moore,</hi> the Earle of <hi>Cork,</hi> and the Earle of Ormond, againſt the Rebels, <date>December the 23. 1641.</date>
+            </head>
+            <p>VPon the 23. of Decemb. the rebels pre<g ref="char:EOLhyphen"/>pared themſelves for battell, and their intent was to beat downe the famous ci<g ref="char:EOLhyphen"/>ty of <hi>Dublin:</hi> but firſt they came to <hi>Kilmanum</hi> and burnt downe all the houſes there, uſing un<g ref="char:EOLhyphen"/>heard of torments to the poore proteſtants, but then about the ſpace of two dayes after Tyrone was to bring an Atmy of ten thouſand men to aſſault the aforeſaid city of Dublin, &amp; to march by <hi>Kilmanam,</hi> but the Lord <hi>Moore</hi> having intel<g ref="char:EOLhyphen"/>ligence of it, he cauſed the drums to beat vp, to call his ſouldiers together, and then related to them what the rebels intent was: wherefore he made a propoſition to them, which they very willingly agreed to it, that was, to undermind the ground by the way that they in ended to come, and to lay 20 barrels of Gun-powder in the ſame vault, the one end of it came to <hi>Kilma<g ref="char:EOLhyphen"/>num,</hi>
+               <pb facs="tcp:123669:3"/>and there by the policy that he uſed, the fire caught hold on the powder juſt as they were marching over the ſaid place, and there at that inſtant were ſlaine and wounded of the rebels about the number of 2000, which put them in a great perplexity, and cauſed them to retreat backe upon the ſudden. Then the Earle o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cork and the Earle of Ormond purſued them, which the rebels ſeeing, reſolu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely withſthod them, and there a bloudy ourtell did inſue, the rebels being in number 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>000. the Earle of Tyrone were their Generall: the Lord Moore and the Earle of Ormonds force were 6000.</p>
+            <p>The Earle of Ormond bringing up his men ſo couragiouſly, that it was his hard fortune to receive a wound in the thigh with a bullet: but God be praiſed, he hath recovered it againe. Ty<g ref="char:EOLhyphen"/>rone had a great wound in the arme, but the good Lord Moore received no harme at all.</p>
+            <p>In this great and victiorious battell were ſlain on the rebels ſide 4000. and of the proteſtants ſide nine hundred.</p>
+            <p>Upon the 24 day of Decemb. the rebels renu<g ref="char:EOLhyphen"/>ed their forces, intending to aſſault the City of <hi>Dublin,</hi> but they were beaten back by that true, valorous, and experienced Souldier Captaine Field, who hath bin in the King of Swedlands wars theſe 16 yeeres laſt paſt.</p>
+            <p>Then the rebels ſeeing that they could not gaine the aforeſaid city, by reaſon they were ſo
+<pb facs="tcp:123669:3"/>often reſiſtted, and beaten backe therefore Ty<g ref="char:EOLhyphen"/>rone deviſed another way to gaine it by policle, as may appeare by this inſuing ſtory.</p>
+            <p>Vpon the 19 day of December, the rebels ſent a great company of men with great ſtore of mo<g ref="char:EOLhyphen"/>neyes about them to the city of Dublin, under pretence of being proteſtants, &amp; that they were faine to flye from the County of <hi>Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>noham</hi> for ſafeguard of their lives, and to leave all their goods behind them, ſave onely ſome moneyes which they brought with them.</p>
+            <p>Therefore they deſired, and intreated, that they might have Lodging, and they would pay for all things which they called for.</p>
+            <p>Whereupon they were let in, and ſome Lod<g ref="char:EOLhyphen"/>ged in one place and ſome in another, where they behaved themſelves well in an outward ſhew, but trechery and cruelty lodged in their breſts; for they had taken an Oath before they came from the rebels to be true to them, and not to diſcover any of their ſccrets or intents, but to kill all the proteſtants they poſſible could, after their time was expired.</p>
+            <p>For they had ſo plotted together that when they were entred the City, after the ſpace of fourc dayes they ſhould kill all the proteſtants they poſſible could, the houre was ſet downe which they ſhould begin at, they having great ſtore of piſtols and bullets about them.</p>
+            <pb facs="tcp:123669:4"/>
+            <p> Vpon the 4. day towards evening, the rebels in<g ref="char:EOLhyphen"/>tended to approach neere the city, &amp; to enter in<g ref="char:EOLhyphen"/>to it by trecheny; for upon the third day three or foure of them were talking together, ſaying, tomorrow night about twelve of the clocke, we ſhall be abou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our bleſſed deſigne of killing the hereticks: but there was a poore man in the next roome overhearing of them, who preſently went to the Lord Chiefe Jvſtice, and told them hovv it vvas.</p>
+            <p>Whereupon there was a generall ſearch made throughout the whole city, and took and impri<g ref="char:EOLhyphen"/>ſoned all ſtrangers which they found in every houſe &amp; being examined before the Lord chiefe Juſtices, they confeſſed how it was, that when they were about this bloudy maſſacre, he rebels were to come againſt the city, and to batter it downe.</p>
+            <p>The Major of <hi>London-derry</hi> having ſome in<g ref="char:EOLhyphen"/>telligence that the rebels were ſhortly reſolved to aſſault it, did give ſtr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct command, that the city ſhould be ſtrongly guarded, and have a great fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trfication ſet about it to defend it.</p>
+            <p>At the publication of which warrant, each man prepared Arms to the ſame intent, &amp; about the evening as many of the reb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls came ſuppo<g ref="char:EOLhyphen"/>ſing to have taken it<g ref="char:punc">▪</g> they very ſtrongly defen<g ref="char:EOLhyphen"/>ded themſelves and the city and repel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the re<g ref="char:EOLhyphen"/>bels, driving them back<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> great ſtrength and courage, ſlaying many of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other flye.</p>
+            <pb facs="tcp:123669:4"/>
+            <p> The <hi>Red-ſhanke<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> likewiſe hearin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how blou<g ref="char:EOLhyphen"/>dily and inhuman<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> they did proſecute the pro<g ref="char:EOLhyphen"/>teſtants, came on the backe ſide of <hi>Ireland,</hi> and ſlew many of them, not ſparing either man, wo<g ref="char:EOLhyphen"/>man, or child, vvhom they ſuſpeded to be rebels, but killing them all with couragious puiſſance.</p>
+            <p>The City and Caſtle of <hi>Dublin</hi> is now is ve<g ref="char:EOLhyphen"/>ry ſtrong<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y fortified, and they doe worke with home worke, ſo that they now defend them<g ref="char:EOLhyphen"/>ſelves from the rebels Tyranny very valiantly.</p>
+            <p>For by the helpe of the Scots, that are on the back ſide, and other Engliſh men lately gone o<g ref="char:EOLhyphen"/>ver on the front they doe now maſſacre the Re<g ref="char:EOLhyphen"/>bels notably, and have ſufficiently kept and de<g ref="char:EOLhyphen"/>fended the Caſtle of Dublin from their bloudy and inhumane deſignes.</p>
+            <p>Thus we ſee that miſery and calamity may ſometimes continue, for a night, but joy &amp; com<g ref="char:EOLhyphen"/>fort commeth in the morning.</p>
+            <p>For Almighty God will not ſuffer his peo<g ref="char:EOLhyphen"/>ple to periſh altogether, but at length hee riſeth himſelfe, and confounds all their enemies.</p>
+         </div>
+         <trailer>FINJS.</trailer>
+      </body>
+   </text>
+</TEI>
